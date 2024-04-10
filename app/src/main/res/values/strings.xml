@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="texto_altura_label">"Altura: "</string>
+    <string name="texto_sistemaunidades_label">Sistema de unidades</string>
+    <string name="texto_calcular">Calcular</string>
+    <string name="texto_resultado_IMC">Su IMC es %.2f</string>
+    <string name="unidadMedida">Unidad de medida</string>
+    <string name="peticionPeso">Ingrese su peso</string>
+    <string name="peticionAltura">Ingrese su altura</string>
+    <string name="valorIMC">Su IMC es %.2f</string>
+    <string name="bajoPeso">Bajo peso: menos de 18.5</string>
+    <string name="normalPeso">Normal: entre 18.5 y 24.9</string>
+    <string name="sobrePeso">Sobrepeso: entre 25 y 29.9</string>
+    <string name="obesidad">Obesidad: 30 o más</string>
+    <string name="unidadPeso">kg</string>
+    <string name="unidadPesoIngles">lb</string>
+    <string name="unidadAltura">m</string>
+    <string name="unidadAlturaIngles">in</string>
+    <string name="titulo_calculadora_IMC">Calculadora del Índice de Masa Corporal (IMC)</string>
+</resources>
